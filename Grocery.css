@@ -14,10 +14,32 @@ body{
 }
 .T1
 {
+    background-color: firebrick;
     color: olivedrab;
+.Onion
+{
+    height: 150px;
+    width: 150px;
+}
+.Orange
+{
+    height: 150px;
+    width: 150px;
+}
+.Pepper
+{
+    height: 150px;
+    width: 150px;
+}
+.Apple
+{
+    height: 150px;
+    width: 150px;
+}
 }
 .T2
 {
+    background-color: darkcyan;
     color: brown;
 }
 .T3
@@ -33,4 +55,12 @@ Footer
     background-color: aquamarine;
     bottom: 0%;
     width: 100%;
+}
+.Food
+{
+    text-align: left;
+}
+td:hover
+{
+    background-color: palegreen;
 }
