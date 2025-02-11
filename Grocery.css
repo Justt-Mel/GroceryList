@@ -8,6 +8,29 @@ h1{
 body{
     background-color: blanchedalmond;
 }
-table{
+.HomeImg
+{
+    margin-bottom: 3%;
+}
+.T1
+{
     color: olivedrab;
+}
+.T2
+{
+    color: brown;
+}
+.T3
+{
+color: chocolate;
+}
+.T4
+{
+    color: cadetblue;
+}
+Footer
+{
+    background-color: aquamarine;
+    bottom: 0%;
+    width: 100%;
 }
