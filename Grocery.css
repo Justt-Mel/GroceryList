@@ -2,8 +2,12 @@
     height: 100%;
     width: 100%;
 }
-h1{
+.Preserved
+{
+    background-color: rgb(17, 122, 122);
     color: rosybrown;
+    border: 5px rgb(19, 50, 140) solid;
+    text-align: center;
 }
 body{
     background-color: blanchedalmond;
@@ -36,20 +40,55 @@ body{
     height: 150px;
     width: 150px;
 }
+margin: 5%;
 }
 .T2
 {
     background-color: darkcyan;
     color: brown;
+    margin: 5%;
+.Chicken
+{
+    height: 150px;
+    width: 150px;
+}
+.Steak
+{
+    height: 150px;
+    width: 150px;
+}
+.Pork
+{
+    height: 150px;
+    width: 150px;
+}
 }
 .T3
 {
+background-color: dimgrey;
 color: chocolate;
+margin: 5%;
+.Beans
+{
+    height: 150px;
+    width: 150px;
+}
+.Corn
+{
+    height: 150px;
+    width: 150px;
+}
+.Oats
+{
+    height: 150px;
+    width: 150px;
+}
 }
 .T4
 {
     background-color: tomato;
     color: cadetblue;
+    margin: 3%;
 .FrozenF
 {
     height: 150px;
@@ -61,6 +100,11 @@ color: chocolate;
     width: 150px;
 }
 .FroVeg
+{
+    height: 150px;
+    width: 150px;
+}
+.Hash
 {
     height: 150px;
     width: 150px;
